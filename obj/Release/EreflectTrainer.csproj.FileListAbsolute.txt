@@ -1,0 +1,8 @@
+F:\Documents\GitHubVisualStudio\Dynamic-Dj-Dekstop-Source\EreflectTrainer\EreflectTrainer\bin\Release\EreflectTrainer.exe.config
+F:\Documents\GitHubVisualStudio\Dynamic-Dj-Dekstop-Source\EreflectTrainer\EreflectTrainer\bin\Release\EreflectTrainer.exe
+F:\Documents\GitHubVisualStudio\Dynamic-Dj-Dekstop-Source\EreflectTrainer\EreflectTrainer\bin\Release\EreflectTrainer.pdb
+F:\Documents\GitHubVisualStudio\Dynamic-Dj-Dekstop-Source\EreflectTrainer\EreflectTrainer\obj\Release\EreflectTrainer.Form1.resources
+F:\Documents\GitHubVisualStudio\Dynamic-Dj-Dekstop-Source\EreflectTrainer\EreflectTrainer\obj\Release\EreflectTrainer.Properties.Resources.resources
+F:\Documents\GitHubVisualStudio\Dynamic-Dj-Dekstop-Source\EreflectTrainer\EreflectTrainer\obj\Release\EreflectTrainer.csproj.GenerateResource.Cache
+F:\Documents\GitHubVisualStudio\Dynamic-Dj-Dekstop-Source\EreflectTrainer\EreflectTrainer\obj\Release\EreflectTrainer.exe
+F:\Documents\GitHubVisualStudio\Dynamic-Dj-Dekstop-Source\EreflectTrainer\EreflectTrainer\obj\Release\EreflectTrainer.pdb

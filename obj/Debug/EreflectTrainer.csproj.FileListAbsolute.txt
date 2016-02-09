@@ -1,0 +1,9 @@
+F:\Documents\GitHubVisualStudio\Dynamic-Dj-Dekstop-Source\EreflectTrainer\EreflectTrainer\bin\Debug\EreflectTrainer.exe.config
+F:\Documents\GitHubVisualStudio\Dynamic-Dj-Dekstop-Source\EreflectTrainer\EreflectTrainer\bin\Debug\EreflectTrainer.exe
+F:\Documents\GitHubVisualStudio\Dynamic-Dj-Dekstop-Source\EreflectTrainer\EreflectTrainer\bin\Debug\EreflectTrainer.pdb
+F:\Documents\GitHubVisualStudio\Dynamic-Dj-Dekstop-Source\EreflectTrainer\EreflectTrainer\obj\Debug\EreflectTrainer.csprojResolveAssemblyReference.cache
+F:\Documents\GitHubVisualStudio\Dynamic-Dj-Dekstop-Source\EreflectTrainer\EreflectTrainer\obj\Debug\EreflectTrainer.Form1.resources
+F:\Documents\GitHubVisualStudio\Dynamic-Dj-Dekstop-Source\EreflectTrainer\EreflectTrainer\obj\Debug\EreflectTrainer.Properties.Resources.resources
+F:\Documents\GitHubVisualStudio\Dynamic-Dj-Dekstop-Source\EreflectTrainer\EreflectTrainer\obj\Debug\EreflectTrainer.csproj.GenerateResource.Cache
+F:\Documents\GitHubVisualStudio\Dynamic-Dj-Dekstop-Source\EreflectTrainer\EreflectTrainer\obj\Debug\EreflectTrainer.exe
+F:\Documents\GitHubVisualStudio\Dynamic-Dj-Dekstop-Source\EreflectTrainer\EreflectTrainer\obj\Debug\EreflectTrainer.pdb
